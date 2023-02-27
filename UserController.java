@@ -11,7 +11,7 @@ import ru.evsmanko.mankoff.service.UserInfoService;
 
 @Controller
 @AllArgsConstructor
-@RequestMapping("/malikov")
+@RequestMapping("/malikovv")
 public class UserController {
     private final UserInfoService userInfoService;
 
